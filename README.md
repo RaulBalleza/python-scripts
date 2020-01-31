@@ -1,2 +1,4 @@
 # python-scripts
-Scripts en python hechos por mi para agilizar tareas
+## resize.py
+args: image_file width height
+output: resized image_file to width and height passed
